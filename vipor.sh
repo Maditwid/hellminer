@@ -1,2 +1,2 @@
 
-./hellminer -c stratum+tcp://sg.vipor.net:5040 -u R9QnyT5j4515RZnwg6T8KYAp7EskoWgfGT.HM1 -p x --cpu 1
+./hellminer -c stratum+tcp://sg.vipor.net:5040 -u RXnctRcqXtuntqQtARKe1q132v3ZskYcr9.HMVivo -p x --cpu 1

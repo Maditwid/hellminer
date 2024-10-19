@@ -1,2 +1,2 @@
 
-./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u R9QnyT5j4515RZnwg6T8KYAp7EskoWgfGT.HM1 -p x --cpu 5
+./hellminer -c stratum+tcp://sg.vipor.net:5040#xnsub -u RXnctRcqXtuntqQtARKe1q132v3ZskYcr9.HMVivo -p x --cpu 5
